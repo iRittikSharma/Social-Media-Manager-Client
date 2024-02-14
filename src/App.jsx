@@ -5,7 +5,7 @@ import FbLink from './components/FbLink/FbLink'
 function App() {
   return (
     <>
-      <FbLink/>
+      <FbLink />
     </>
   )
 }
